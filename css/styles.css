@@ -1,0 +1,15 @@
+#picture {
+  width: 25%;
+  height:auto;
+  float: right;
+  border: solid;
+  border-color:aquamarine;
+}
+
+#goal-list {
+  width: 25%;
+  height:auto;
+  border-style:dotted;
+  border-color:aquamarine
+  
+}
