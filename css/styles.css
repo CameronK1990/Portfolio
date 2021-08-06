@@ -7,9 +7,23 @@
 }
 
 #goal-list {
-  width: 25%;
+  width: auto;
   height:auto;
-  border-style:dotted;
+  border-style:solid;
   border-color:aquamarine
   
+}
+
+.title {
+  color:cadetblue
+}
+
+.column1 {
+  width: 200px;
+  float: left;
+}
+
+.column2 {
+  width: 200px;
+  float: center;
 }

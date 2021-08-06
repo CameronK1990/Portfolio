@@ -23,7 +23,6 @@ _This is a personal portfolio page created as my first solo project in week one 
 ## Known Bugs
 
 * Will update as issues occur during project. This project will be in development throughout my time in coding school as I experiment with new technologies.
-* 
 
 ## License
 
