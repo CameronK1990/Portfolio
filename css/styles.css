@@ -8,17 +8,27 @@
 
 #goal-list {
   width: auto;
-  height:auto;
-  border-style:solid;
-  border-color:aquamarine
-  
+  height: auto;
+  border-style: solid;
+  border-color:aquamarine 
 }
+
+#loves-list {
+  width: auto;
+  height: auto;
+  border-style: solid;
+  border-color:aquamarine;
+  }
 
 .title {
   color:cadetblue
 }
 
-.column1 {
-  width: 200px;
-  float: left;
+.box {
+  width: 250px;
+  height: 202px;
+  margin: 12px;
+  border: 2px aquamarine;
+  padding: 2px;
+  background-color: whitesmoke;
 }
