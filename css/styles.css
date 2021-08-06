@@ -18,10 +18,10 @@
   height: auto;
   border-style: solid;
   border-color:aquamarine;
-  }
+}
 
 .title {
-  color:cadetblue
+  color:cadetblue;
 }
 
 .box {
@@ -31,4 +31,13 @@
   border: 2px aquamarine;
   padding: 2px;
   background-color: whitesmoke;
+}
+
+.nextto {
+  display: inherit;
+  width: 30%;
+}
+
+.font {
+  font-family: 'Courier New', Courier, monospace
 }
