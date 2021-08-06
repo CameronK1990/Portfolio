@@ -32,3 +32,5 @@ _MIT_
 ## Contact Information
 
 _cameron.kronsbein@gmail.com_
+
+<a href="https://github.com/CameronK1990">GitHub</a>
