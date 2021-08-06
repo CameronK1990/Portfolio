@@ -22,7 +22,7 @@ _This is a personal portfolio page created as my first solo project in week one 
 
 ## Known Bugs
 
-* Working with box models to fit style and text properly
+* Working with box models to make list pacing more appeasing to the eye
 
 ## License
 

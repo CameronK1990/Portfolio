@@ -1,23 +1,23 @@
 #picture {
-  width: 35%;
+  width: 34.5%;
   height:auto;
   float: right;
   border: solid;
-  border-color:aquamarine;
+  border-color:cadetblue;
 }
 
 #goal-list {
   width: auto;
   height: auto;
   border-style: solid;
-  border-color:aquamarine 
+  border-color:cadetblue;
 }
 
 #loves-list {
   width: auto;
   height: auto;
   border-style: solid;
-  border-color:aquamarine;
+  border-color:cadetblue;
 }
 
 .title {
@@ -28,7 +28,8 @@
   width: 250px;
   height: 202px;
   margin: 12px;
-  border: 2px aquamarine;
+  border: 2px;
+  border-color:cadetblue;
   padding: 2px;
   background-color: whitesmoke;
 }
@@ -45,5 +46,5 @@
   text-align:justify;
   width: 600px;
   height: auto;
-  padding: 15px
+  padding: 12px
 }
