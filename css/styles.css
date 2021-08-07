@@ -48,3 +48,8 @@
   height: auto;
   padding: 12px
 }
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+}
