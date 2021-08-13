@@ -12,7 +12,7 @@
 
 ## Description
 
-_This is a personal portfolio page created as my first solo project in week one of my coding adventure with Epicodus_
+_This is a personal portfolio page created as my first solo project in week one of my coding adventure with Epicodus. The page can be viewed on GitHub pages [here](https://cameronk1990.github.io/Portfolio)._
 
 ## Setup/Installation Requirements
 
